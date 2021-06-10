@@ -1,7 +1,6 @@
-# VRP software
+# VRP (Vehicle Routing Problem) software
 
 ## Ideas and resources
-
 
 ### Data formats and sources
 
