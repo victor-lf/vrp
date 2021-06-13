@@ -1,4 +1,4 @@
-# VRP (Vehicle Routing Problem) software
+# Vehicle Routing Problem (VRP) software
 
 ## Ideas and resources
 
